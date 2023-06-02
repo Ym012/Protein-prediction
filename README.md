@@ -1,5 +1,6 @@
 # Team: The Phospho Force: Protein-prediction project
 
+This is our shared repository for the cuisine prediction project.
 
 <p align="center">
       <img width="500" height="300" src="slide preview.PNG">

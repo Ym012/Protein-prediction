@@ -39,7 +39,7 @@ The Keras neural network performed best with an accuracy of 10-11%. We were able
 
 ## Value
 
-the Differentiating Kinases for Targeted Drug Discovery project represents a promising opportunity to advance drug development. By establishing strategies to differentiate kinases in prokaryotes from those in eukaryotes or pathogenic bacteria, the project opens doors for designing particular drugs for eukaryotic diseases and infections caused by pathogens. The resulting advancements in targeted drug discovery will have far-reaching implications, including personalized therapies, improved.
+The Differentiating Kinases for Targeted Drug Discovery project represents a promising opportunity to advance drug development. By establishing strategies to differentiate kinases in prokaryotes from those in eukaryotes or pathogenic bacteria, the project opens doors for designing particular drugs for eukaryotic diseases and infections caused by pathogens. The resulting advancements in targeted drug discovery will have far-reaching implications, including personalized therapies, improved.
 
 ## Future Work
 

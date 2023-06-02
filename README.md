@@ -1,4 +1,12 @@
 # Team: The Phospho Force: Protein-prediction project
+
+
+<p align="center">
+  <a href=" https://buckeyemailosu-my.sharepoint.com/:p:/r/personal/dhanashree_1_osu_edu/_layouts/15/Doc.aspx?sourcedoc=%7BA958E0F2-BA24-457D-8319-F0E27EE77B52%7D&file=Protein%20Function%20Prediction.pptx&action=edit&mobileredirect=true">
+      <img width="525" height="300" src="slide_preview.png">
+  </a>
+</p>
+
 The project on Protein Function Prediction (Differentiating Kinases for Targeted Drug Discovery) addresses a critical challenge in drug development by distinguishing between kinases present in prokaryotes, precisely probiotic strains, and those in eukaryotes or pathogenic bacteria. Kinases, a protein essential for cellular signaling, are promising targets for drug discovery due to their involvement in various biological processes. However, the lack of differentiation between kinases across different organisms hinders the development of specific drugs for eukaryotic diseases and infections caused by pathogens.
  
 The primary objective of this project is to develop robust models that can accurately predict the functions of proteins based on their sequences. We collected protein sequences from Kaggle.com (CAFA 5 Protein Function Prediction) to use as valuable training data for the models.

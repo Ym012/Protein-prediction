@@ -2,7 +2,7 @@
 
 
 <p align="center">
-      <img width="500" height="300" src="slide preview.png">
+      <img width="500" height="300" src="slide preview.PNG">
   </a>
 </p>
 

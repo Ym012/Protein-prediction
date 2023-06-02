@@ -2,8 +2,7 @@
 
 
 <p align="center">
-  <a href=" https://buckeyemailosu-my.sharepoint.com/:p:/r/personal/dhanashree_1_osu_edu/_layouts/15/Doc.aspx?sourcedoc=%7BA958E0F2-BA24-457D-8319-F0E27EE77B52%7D&file=Protein%20Function%20Prediction.pptx&action=edit&mobileredirect=true">
-      <img width="525" height="300" src="slide_preview.png">
+      <img width="500" height="300" src="slide preview.png">
   </a>
 </p>
 

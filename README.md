@@ -1,7 +1,11 @@
 # Protein-prediction
 
-##Table of Contents
+## Table of Contents
 
-##Process
+## Objective
 
-##Results
+## Process
+
+## Results
+
+## Future Work
